@@ -57,7 +57,7 @@ y = y + vsp;
 
 if (!place_meeting(x,y+1,OBJ_InvisibleWall))
 {
-	sprite_index = SPR_SpaceMan_Jump;
+	sprite_index = SPR_SpaceMan_AirJump;
 	image_speed = 0;
 	if (vsp > 0) image_index = 1; else image_index = 0;
 }
