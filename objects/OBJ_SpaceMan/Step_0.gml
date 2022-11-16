@@ -52,3 +52,26 @@ if (place_meeting(x,y+vsp,OBJ_InvisibleWall))
 	vsp = 0;
 }
 y = y + vsp;
+
+//Animation
+
+if (!place_meeting(x,y+1,OBJ_InvisibleWall))
+{
+	sprite_index = SPR_SpaceMan_Jump;
+	image_speed = 0;
+	if (vsp > 0) image_index = 1; else image_index = 0;
+}
+else
+{
+	image_speed = 1
+	if (hsp=0)
+	{
+		sprite_index = SPR_SpaceMan_Idle
+	}
+	else
+	{
+		sprite_index = SPR_SpaceMan_Walk
+	}
+}
+
+if (hsp !=0) image_xscale = sign(hsp)

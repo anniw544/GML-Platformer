@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OBJ_SpaceMan_Idle",
+  "name": "OBJ_SpaceMan",
   "spriteId": {
     "name": "SPR_SpaceMan_Idle",
     "path": "sprites/SPR_SpaceMan_Idle/SPR_SpaceMan_Idle.yy",
