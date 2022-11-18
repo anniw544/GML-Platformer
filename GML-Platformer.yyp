@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML-Platformer",
   "resources": [
+    {"id":{"name":"TIL_Walls","path":"tilesets/TIL_Walls/TIL_Walls.yy",},"order":0,},
     {"id":{"name":"SPR_Background","path":"sprites/SPR_Background/SPR_Background.yy",},"order":7,},
     {"id":{"name":"SPR_SpaceMan_Idle","path":"sprites/SPR_SpaceMan_Idle/SPR_SpaceMan_Idle.yy",},"order":0,},
     {"id":{"name":"OBJ_InvisibleWall","path":"objects/OBJ_InvisibleWall/OBJ_InvisibleWall.yy",},"order":1,},
@@ -12,7 +13,7 @@
     {"id":{"name":"SPR_Clouds","path":"sprites/SPR_Clouds/SPR_Clouds.yy",},"order":5,},
     {"id":{"name":"SPR_SpaceMan_Jump","path":"sprites/SPR_SpaceMan_Jump/SPR_SpaceMan_Jump.yy",},"order":8,},
     {"id":{"name":"SPR_Walls","path":"sprites/SPR_Walls/SPR_Walls.yy",},"order":6,},
-    {"id":{"name":"SPR_SpaceMan_AirJump","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"order":4,},
+    {"id":{"name":"SPR_SpaceMan_AirJump","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

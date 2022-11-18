@@ -28,9 +28,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"45eb4957-22af-47ef-b3c4-132828e7c7c1",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"926a314a-6198-4af6-a39a-6bef6072697b",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d8adb2ae-d5dd-438a-b225-65049c17c967",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ab6a6be-87d5-4060-bea6-0f5d03f3086c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33f09cd2-adfb-4cea-95d4-9e4f1ca6df64",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97374a11-e5f8-48de-91d0-9a6747e80ffc",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -47,9 +47,9 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"dbab86ec-6610-48d4-8b79-fbc573b6cd63","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45eb4957-22af-47ef-b3c4-132828e7c7c1","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"f0d15ab4-05f4-41cf-861c-2e7b84cc0fb0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"926a314a-6198-4af6-a39a-6bef6072697b","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"6d22f8bd-6383-41bb-ac42-0af1952e82e0","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8adb2ae-d5dd-438a-b225-65049c17c967","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"450e5908-69de-4bb7-87f8-f9f38efa31db","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ab6a6be-87d5-4060-bea6-0f5d03f3086c","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"904772a6-a416-4ba3-99dc-77b5743c2778","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33f09cd2-adfb-4cea-95d4-9e4f1ca6df64","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"652474fb-8722-40cd-ae17-86209cfae06a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97374a11-e5f8-48de-91d0-9a6747e80ffc","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -68,7 +68,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb8896cc-353a-46a3-9480-5a73519cb4b7","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4504e92e-8839-4288-b628-1e9d01056f26","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
