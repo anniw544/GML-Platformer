@@ -11,8 +11,14 @@ var _move = key_right - key_left;
 
 hsp = _move * walksp;
 
+if (airjumpused=0)
+{
 vsp = vsp + grv;
-
+}
+if (airjumpused=1)
+{
+vsp=vsp+airjumpgrv
+}
 if (place_meeting(x,y+1,OBJ_InvisibleWall))
 {
 	airjumpused = 0
@@ -46,7 +52,7 @@ x = x + hsp;
 if (place_meeting(x,y+vsp,OBJ_InvisibleWall))
 {
 	while (!place_meeting(x,y+sign(vsp),OBJ_InvisibleWall))
-	{
+	{ 
 		y = y + sign(vsp);
 	}
 	vsp = 0;
