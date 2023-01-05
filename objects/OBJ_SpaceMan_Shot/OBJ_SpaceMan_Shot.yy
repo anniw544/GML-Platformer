@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OBJ_Next_Level",
+  "name": "OBJ_SpaceMan_Shot",
   "spriteId": {
-    "name": "SPR_Snvisible_Wall_NL",
-    "path": "sprites/SPR_Snvisible_Wall_NL/SPR_Snvisible_Wall_NL.yy",
+    "name": "SPR_SpaceMan_Shot",
+    "path": "sprites/SPR_SpaceMan_Shot/SPR_SpaceMan_Shot.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
