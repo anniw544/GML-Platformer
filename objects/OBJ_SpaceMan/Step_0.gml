@@ -81,5 +81,7 @@ else
 }
 
 if (hsp !=0) image_xscale = sign(hsp)
-//16:25 / 28:29 vid 2
+
+// Detecting player direction
+
 
