@@ -3,9 +3,11 @@
   "resourceVersion": "1.6",
   "name": "GML-Platformer",
   "resources": [
+    {"id":{"name":"Room_win","path":"rooms/Room_win/Room_win.yy",},"order":10,},
     {"id":{"name":"SPR_Background","path":"sprites/SPR_Background/SPR_Background.yy",},"order":7,},
     {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":6,},
     {"id":{"name":"SPR_SpaceMan_Idle","path":"sprites/SPR_SpaceMan_Idle/SPR_SpaceMan_Idle.yy",},"order":0,},
+    {"id":{"name":"OBJ_WINNER_BOI","path":"objects/OBJ_WINNER_BOI/OBJ_WINNER_BOI.yy",},"order":5,},
     {"id":{"name":"SPR_Snowy_Walls","path":"sprites/SPR_Snowy_Walls/SPR_Snowy_Walls.yy",},"order":10,},
     {"id":{"name":"SPR_Snvisible_Wall_NL","path":"sprites/SPR_Snvisible_Wall_NL/SPR_Snvisible_Wall_NL.yy",},"order":11,},
     {"id":{"name":"OBJ_Next_DEATH","path":"objects/OBJ_Next_DEATH/OBJ_Next_DEATH.yy",},"order":3,},
@@ -32,6 +34,7 @@
     {"id":{"name":"SPR_SpaceMan_Jump","path":"sprites/SPR_SpaceMan_Jump/SPR_SpaceMan_Jump.yy",},"order":8,},
     {"id":{"name":"SPR_SpaceMan_AirJump","path":"sprites/SPR_SpaceMan_AirJump/SPR_SpaceMan_AirJump.yy",},"order":9,},
     {"id":{"name":"OBJ_SpaceMan_Shot","path":"objects/OBJ_SpaceMan_Shot/OBJ_SpaceMan_Shot.yy",},"order":4,},
+    {"id":{"name":"SPR_Win_screen","path":"sprites/SPR_Win_screen/SPR_Win_screen.yy",},"order":18,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -58,6 +61,7 @@
     {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
     {"roomId":{"name":"Room7","path":"rooms/Room7/Room7.yy",},},
     {"roomId":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
+    {"roomId":{"name":"Room_win","path":"rooms/Room_win/Room_win.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
